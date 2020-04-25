@@ -1,0 +1,13 @@
+
+/*@import "normalize.css";*/
+@import "base/_variables";
+@import "base/_global";
+@import "modules/_btn";
+@import "modules/_app-center"; 
+@import "modules/_the-app-section";
+@import "modules/_clarity";
+@import "modules/_features";
+@import "modules/_pricing";
+@import "modules/_footer";
+@import "modules/_download-popup"
+
